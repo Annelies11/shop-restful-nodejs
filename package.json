@@ -1,0 +1,24 @@
+{
+  "name": "01_rest-shop",
+  "version": "1.0.0",
+  "description": "A Simple NodeJS shop website with Restful API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annelies11/shop-restful-nodejs.git"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Aris Mahmudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Annelies11/shop-restful-nodejs/issues"
+  },
+  "homepage": "https://github.com/Annelies11/shop-restful-nodejs#readme"
+}
